@@ -2,7 +2,7 @@
 
 <li>In this project i code some java program that is important for java interview.</li>
 Programes:
-<p>1. Write Java Program to Add Element at Given Location in Array.<code><a style="text-decoration:none;text-decoration-color:transparent;color:#FFF;" href="https://github.com/rutviksolanki/Java-Logical-Programe/blob/main/Logic_PJ/AddEleatGivenLoc.java">code</code></p>
+<p>1. Write Java Program to Add Element at Given Location in Array.<code><a style="text-decoration:none;text-decoration-color:transparent;color:#FFF;" href="https://github.com/rutviksolanki/Java-Logical-Programe/blob/main/Logic_PJ/AddEleatGivenLoc.java"></a>code</code></p>
 <p>2. Write Java Program to Add Element at End of Given Array.</p>
 <p>3. Write Java Program to Add Two Numbers without Using Arithmatic Operation.</p>
 <p>4. Write Java Program to Check Two Strings are Anagrames or Not.</p>
