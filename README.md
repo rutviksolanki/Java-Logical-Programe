@@ -1,7 +1,7 @@
 # Java Logical Programe
 
 <li>In this project i code some java program that is important for java interview.</li>
-<li>Programes:</li>
+Programes:
 <p>1. Write Java Program to Add Element at Given Location in Array.</p>
 <p>2. Write Java Program to Add Element at End of Given Array.</p>
 <p>3. Write Java Program to Add Two Numbers without Using Arithmatic Operation.</p>
